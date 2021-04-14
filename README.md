@@ -10,6 +10,8 @@ I earned a Bachelor of Science in Statistics and a Bachelor of Arts in Economics
 
 Please feel free to connect with me. I look forward to hearing from you about my projects.
 
+Email: carlos.s.monsivais@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/carlosmonsivais/
 
 Project Website: https://carlosmonsivais123.github.io/# 
