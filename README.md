@@ -6,6 +6,7 @@ I am an accomplished, data analyst working for CoreLogic. I currently use the fo
 
 • Cloud Tools: Google Cloud (BigQuery, Dataprep, Google Cloud SDK)
 
+<b>Education</b>
 I am currently pursuing a M.S in Data Science at Indiana University Bloomington where I am expected to graduate in May 2023; I earned a B.S in Statistics and a B.A in Economics at the University of California, Davis in June 2019.
 
 Please feel free to connect with me. I look forward to hearing from you about my projects.
