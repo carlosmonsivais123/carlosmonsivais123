@@ -9,12 +9,19 @@ I am an accomplished, data analyst working for CoreLogic. I currently use the fo
       <li>HTML</li>
     </ul>
   </li>
-  <li>Milk</li>
+  <li>Cloud Tools
+    <ul>
+      <li>Google Cloud Platform (BigQuery, Dataprep, Google Cloud SDK)</li>
+    </ul>
+  </li>
+  
+  <li>Software
+    <ul>
+      <li>Tableau (TabPy, Calculated Field Coding)</li>
+      <li>Microsoft (MS) Excel, including Pivot Tables and Macros, plus MS Word and PowerPoint</li>
+    </ul>
+  </li>  
 </ul>
-
-• Cloud Tools: Google Cloud (BigQuery, Dataprep, Google Cloud SDK)
-
-• Software: Tableau (TabPy, Calculated Field Coding) and Microsoft (MS) Excel, including Pivot Tables and Macros, plus MS Word and PowerPoint
 
 
 <h1><b>Education</b></h1>
