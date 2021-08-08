@@ -1,18 +1,16 @@
 <h1><b>About Me</b></h1>
 I am an accomplished, data analyst working for CoreLogic. I currently use the following technologies during work and on my personal projects:
 <ul>
-  <li>Coffee</li>
-  <li>Tea
+  <li>Programming
     <ul>
-      <li>Black tea</li>
-      <li>Green tea</li>
+      <li>Python (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash)</li>
+      <li>SQL</li>
+      <li>RStudio (ggplot2, dplyr, tidyr, caret, flexdashboard)</li>
+      <li>HTML</li>
     </ul>
   </li>
   <li>Milk</li>
 </ul>
-
-
-• Programming: Python (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash); SQL; RStudio (ggplot2, dplyr, tidyr, caret, flexdashboard); and HTML
 
 • Cloud Tools: Google Cloud (BigQuery, Dataprep, Google Cloud SDK)
 
