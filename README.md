@@ -3,7 +3,7 @@ I am an accomplished, data analyst working for CoreLogic. I currently use the fo
 <ul>
   <li>Programming
     <ul>
-      <li>Python (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash)</li>
+      <li><i>Python</i> (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash)</li>
       <li>SQL</li>
       <li>RStudio (ggplot2, dplyr, tidyr, caret, flexdashboard)</li>
       <li>HTML</li>
