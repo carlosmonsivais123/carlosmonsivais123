@@ -32,8 +32,8 @@ I am an accomplished, data analyst working for CoreLogic. I currently use the fo
 <h1><b>Contact</b></h1>
 Please feel free to connect with me. I look forward to hearing from you about my projects.
 
-Email: carlos.s.monsivais@gmail.com
+<b>Email</b>: carlos.s.monsivais@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/carlosmonsivais/
+<b>LinkedIn</b>: https://www.linkedin.com/in/carlosmonsivais/
 
-Project Website: https://carlosmonsivais123.github.io/#
+<b>Project Website</b>: https://carlosmonsivais123.github.io/#
