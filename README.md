@@ -1,4 +1,4 @@
-<center><h1><b>About Me</b></h1></center>
+<h1><b><center>About Me</center></b></h1>
 I am an accomplished, data analyst working for CoreLogic. I currently use the following technologies during work and on my personal projects:
 
 • Programming: Python (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash); SQL; RStudio (ggplot2, dplyr, tidyr, caret, flexdashboard); and HTML
