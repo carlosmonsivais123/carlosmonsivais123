@@ -9,8 +9,9 @@ I am an accomplished, data analyst working for CoreLogic. I currently use the fo
 
 
 <h1><b>Education</b></h1>
-M.S in Data Science at Indiana University Bloomington, expected to graduate in May 2023
-B.S in Statistics and a B.A in Economics at University of California, Davis in June 2019.
+<b>M.S in Data Science at Indiana University Bloomington</b>, expected to graduate in May 2023
+
+<b>B.S in Statistics and a B.A in Economics at University of California</b>, Davis in June 2019.
 
 
 <h1><b>Contact</b></h1>
