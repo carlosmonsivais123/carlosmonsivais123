@@ -1,5 +1,5 @@
 <h1><b>About Me</b></h1>
-I am an accomplished, data analyst working for CoreLogic. I currently use the following technologies during work and on my personal projects:
+I am an accomplished, data analyst working for CoreLogic where I do data analysis on financial products and deliver data driven insights. I currently use the following technologies during work and on my personal projects:
 <ul>
   <li><b>Programming</b>
     <ul>
