@@ -1,24 +1,23 @@
 <h1><b>About Me</b></h1>
 I am an accomplished, data analyst working for CoreLogic. I currently use the following technologies during work and on my personal projects:
 <ul>
-  <li>Programming
+  <li><b>Programming</b>
     <ul>
       <li><i>Python</i> (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash)</li>
-      <li>SQL</li>
-      <li>RStudio (ggplot2, dplyr, tidyr, caret, flexdashboard)</li>
-      <li>HTML</li>
+      <li><i>SQL</i></li>
+      <li><i>RStudio</i> (ggplot2, dplyr, tidyr, caret, flexdashboard)</li>
+      <li><i>HTML</i></li>
     </ul>
   </li>
-  <li>Cloud Tools
+  <li><b>Cloud Tools</b>
     <ul>
-      <li>Google Cloud Platform (BigQuery, Dataprep, Google Cloud SDK)</li>
+      <li><i>Google Cloud Platform</i> (BigQuery, Dataprep, Google Cloud SDK)</li>
     </ul>
   </li>
-  
-  <li>Software
+  <li><b>Software</b>
     <ul>
-      <li>Tableau (TabPy, Calculated Field Coding)</li>
-      <li>Microsoft (MS) Excel, including Pivot Tables and Macros, plus MS Word and PowerPoint</li>
+      <li><i>Tableau</i> (TabPy, Calculated Field Coding)</li>
+      <li><i>Microsoft</i> (MS) Excel, including Pivot Tables and Macros, plus MS Word and PowerPoint</li>
     </ul>
   </li>  
 </ul>
