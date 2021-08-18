@@ -24,7 +24,7 @@ I am an accomplished, data analyst working for CoreLogic where I do data analysi
 
 
 <h1><b>Education</b></h1>
-<b>M.S in Data Science at Indiana University Bloomington</b>, expected to graduate in May 2023
+<b>M.S in Data Science and Engineering at University of California, San Diego</b>, expected to graduate in June 2023
 
 <b>B.S in Statistics and a B.A in Economics at University of California</b>, Davis in June 2019.
 
