@@ -7,7 +7,7 @@ I am an accomplished, data analyst working for CoreLogic where I do data analysi
       <li><i>PySpark</i></li>
       <li><i>TensorFlow Extended</i></li>
       <li><i>Hadoop</i></li>
-      <li><i>SQL</i></li> (ML Model Queries, Query Optimization)
+      <li><i>SQL</i> (ML Model Queries, Query Optimization)
       <li><i>RStudio</i>
       <li><i>HTML</i></li>
     </ul>
