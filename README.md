@@ -3,15 +3,18 @@ I am an accomplished, data analyst working for CoreLogic where I do data analysi
 <ul>
   <li><b>Programming</b>
     <ul>
-      <li><i>Python</i> (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, Scrapy, Dash)</li>
-      <li><i>SQL</i></li>
-      <li><i>RStudio</i> (ggplot2, dplyr, tidyr, caret, flexdashboard)</li>
+      <li><i>Python</i> (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, PyTorch, Scrapy, Dash)</li>
+      <li><i>PySpark</i></li>
+      <li><i>TensorFlow Extended</i></li>
+      <li><i>Hadoop</i></li>
+      <li><i>SQL</i></li> (ML Model Queries, Query Optimization)
+      <li><i>RStudio</i>
       <li><i>HTML</i></li>
     </ul>
   </li>
   <li><b>Cloud Tools</b>
     <ul>
-      <li><i>Google Cloud Platform</i> (BigQuery, Dataprep, Google Cloud SDK)</li>
+      <li><i>Google Cloud Platform</i>  (BigQuery, Vertex AI, AutoML, Dataprep, Google Cloud SDK)</li>
     </ul>
   </li>
   <li><b>Software</b>
@@ -24,7 +27,7 @@ I am an accomplished, data analyst working for CoreLogic where I do data analysi
 
 
 <h1><b>Education</b></h1>
-<b>M.S in Data Science and Engineering at University of California, San Diego</b>, expected to graduate in June 2023
+<b>Masters in Data Science and Engineering at University of California, San Diego</b>, expected to graduate in June 2023
 
 <b>B.S in Statistics and a B.A in Economics at University of California</b>, Davis in June 2019.
 
