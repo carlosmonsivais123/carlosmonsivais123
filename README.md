@@ -1,22 +1,31 @@
 <h1><b>About Me</b></h1>
-I am an accomplished, data analyst working for CoreLogic where I do data analysis on financial products and deliver data driven insights. I currently use the following technologies during work and on my personal projects:
+I am an accomplished, Data Science Engineer working for Accenture where I perform big data analytics on diffferent client projects. I currently use the following technologies during work and on my personal projects:
 <ul>
   <li><b>Programming</b>
     <ul>
       <li><i>Python</i> (Pandas, Numpy, Matplotlib, Plotly, TensorFlow, Scikit-Learn, PyTorch, Scrapy, Dash)</li>
       <li><i>PySpark</i></li>
       <li><i>TensorFlow Extended</i></li>
-      <li><i>Hadoop</i></li>
       <li><i>SQL</i> (ML Model Queries, Query Optimization)
       <li><i>RStudio</i>
+      <li><i>Linux Scripting</i></li>
+      <li><i>Unix Scripting</i></li>
       <li><i>HTML</i></li>
     </ul>
   </li>
   <li><b>Cloud Tools</b>
     <ul>
-      <li><i>Google Cloud Platform</i>  (BigQuery, Vertex AI, AutoML, Dataprep, Google Cloud SDK)</li>
+      <li><i>Google Cloud Platform</i>  (BigQuery, Dataproc, Kubernetes, Cloud Composer, Vertex AI, AutoML, Dataprep, Google Cloud SDK)</li>
+      <li><i>Amazon Web Serivices </i>  (EMR, Amazon SageMaker, EC2, RedShift)</li>
     </ul>
   </li>
+  <li><b>Databases</b>
+    <ul>
+      <li><i>SQL (ML Model Queries, Query Optimization)</i></li>
+      <li><i>PostgreSQL</i></li>
+    </ul>
+  </li>  
+  
   <li><b>Software</b>
     <ul>
       <li><i>Tableau</i> (TabPy, Calculated Field Coding)</li>
