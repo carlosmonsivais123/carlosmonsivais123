@@ -1,5 +1,5 @@
 <h1><b>About Me</b></h1>
-I am an accomplished, Data Science Engineer working for Accenture where I perform big data analytics on different client projects. I currently use the following technologies during work and on my personal projects:
+I am an accomplished Data Scientist working at Accenture achieving stellar results going through the data science cycle end to end from data extraction, cleaning data, feature engineering, modeling, ML Ops and delivering the final insights and product to the client. I currently use the following technologies in my work and on my personal projects:
 <ul>
   <li><b>Programming</b>
     <ul>
