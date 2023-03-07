@@ -38,7 +38,8 @@ I am an accomplished Data Scientist working at Accenture achieving stellar resul
 
 <h1><b>Education</b></h1>
 <b>Masters in Data Science and Engineering at University of California, San Diego</b>
-<br/>
+
+
 <b>B.S in Statistics and B.A in Economics at University of California</b>
 
 
