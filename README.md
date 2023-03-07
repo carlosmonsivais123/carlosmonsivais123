@@ -36,9 +36,9 @@ I am an accomplished, Data Science Engineer working for Accenture where I perfor
 
 
 <h1><b>Education</b></h1>
-<b>Masters in Data Science and Engineering at University of California, San Diego</b>, expected to graduate in June 2023
+<b>Masters in Data Science and Engineering at University of California, San Diego</b>
 
-<b>B.S in Statistics and a B.A in Economics at University of California</b>, Davis in June 2019.
+<b>B.S in Statistics and a B.A in Economics at University of California</b>
 
 
 <h1><b>Contact</b></h1>
