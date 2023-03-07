@@ -49,7 +49,7 @@ I am an accomplished Data Scientist working at Accenture achieving stellar resul
 Please feel free to connect with me. I look forward to hearing from you about my projects:
 <br/><br/>
 <b>Email</b>: carlos.s.monsivais@gmail.com
-
+<br/>
 <b>LinkedIn</b>: https://www.linkedin.com/in/carlosmonsivais/
 
 <b>Project Website</b>: https://carlosmonsivais123.github.io/#
