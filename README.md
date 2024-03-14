@@ -1,5 +1,5 @@
 <h1><b>About Me</b></h1>
-I am an accomplished Data Scientist working at Accenture achieving stellar results going through the data science cycle end to end from data extraction, cleaning data, feature engineering, modeling, ML Ops and delivering the final insights and product to the client. I currently use the following technologies in my work and on my personal projects:
+I am an accomplished Data Scientist working at Tesla achieving stellar results going through the data science cycle end to end from data extraction, cleaning data, feature engineering, modeling, ML Ops and delivering the final insights and product to the client. I currently use the following technologies in my work and on my personal projects:
 <ul>
   <li><b>Programming</b>
     <ul>
@@ -28,7 +28,7 @@ I am an accomplished Data Scientist working at Accenture achieving stellar resul
   
   <li><b>Software</b>
     <ul>
-      <li><i>Tableau</i> (TabPy, Calculated Field Coding)</li>
+      <li><i>Tableau</i></li>
       <li><i>Power BI</i></li>
       <li><i>Microsoft</i> (MS) Excel, including Pivot Tables and Macros, plus MS Word and PowerPoint</li>
     </ul>
